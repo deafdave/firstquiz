@@ -1,0 +1,24 @@
+body{
+  margin-left:20px;
+  
+  background: linear-gradient(orange, white);
+}
+#question1, #question2, #question3, #question4, #question5, 
+#question6, #question7, #question8, #question9, #question10{
+  display    :none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size  : 18px;
+  
+}
+
+p {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size   : 14px;
+}
+canvas{
+  display:none;
+}
+.correct{
+  background-color:#ffa500;
+  color:white;
+}
